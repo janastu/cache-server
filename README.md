@@ -6,5 +6,5 @@ Python
 pip
 virtualenv
 
-`pip install -r requirements.txt
-python server.py`
+`pip install -r requirements.txt`
+`python server.py`
