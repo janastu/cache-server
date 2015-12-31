@@ -13,4 +13,4 @@ Jpegtran, Python Flask Cache and image resizing for jpg images
 * call the server at endpoint 
 * `/cache?url="imageurl"&width="int:default200px"&height="int:default150px"`
 * server will return a image binary response - cached if not already
-  available
+  available in /cache directory at app route
