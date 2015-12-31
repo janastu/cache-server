@@ -20,7 +20,7 @@ def create_cache():
     if 'width' in flask.request.args:
         width = int(flask.request.args['width'])
     else:
-        width = 250
+        width = 200
 
     if 'height' in flask.request.args:
         height = int(flask.request.args['height'])
